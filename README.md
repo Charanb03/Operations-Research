@@ -76,9 +76,10 @@ If you'd like to help, fork the repo, open issues, or submit pull requests. Let�
 
 ## 📬 Contact
 
-👤 **Charan Bokka**  
-📧 Email: cbokka@ttu.edu  
-🔗 [LinkedIn](https://linkedin.com/in/charan28)
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charan28)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Charanb03)  
+📧 charannb3@gmail.com  
 
 ---
 
